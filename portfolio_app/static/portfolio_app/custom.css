@@ -1,0 +1,30 @@
+.nav-link:hover {
+    color: teal !important;
+    
+}
+
+h1 {
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+.nav-link  {
+    left: 100px;
+}
+
+.specific-blog {
+    margin-left: 10px;
+}
+
+#go-right {
+    margin-left: 900px;
+}
+
+#stay {
+    margin-left: 20px;
+}
+
+#first {
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
